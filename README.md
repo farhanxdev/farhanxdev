@@ -18,26 +18,10 @@
 - 🗄️ Database: Firebase (Firestore)  
 - 🔐 Auth: JWT, RBAC  
 
----
-
-## 📱 Projects
-
-### 🔹 Banking App
-- Full Stack + Mobile integration  
-- Secure JWT authentication  
-- REST API with Node.js  
-
-### 🔹 Student Management System
-- Web + Mobile (Next.js + Flutter)  
-- Role-based access (Admin, Teacher, Student)  
-
-### 🔹 Eco Bites (Food Donation App)
-- Flutter mobile app  
-- Real-time Firebase integration  
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/farhanxdev  
-- LinkedIn: (add your link)  
-- Email: (add your email)  
+- LinkedIn:www.linkedin.com/in/farhan-tanvir-xdev  
+- Email:farhan.xdev@gmail.com  
