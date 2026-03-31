@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farhan Tanvir</h1>
+<h2 align="center">Hi 👋, I'm Farhan Tanvir</h2>
 
 <h3 align="center">
 🚀 Full Stack & Mobile Developer | Next.js • Node.js • Flutter
@@ -43,29 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Banking Application
-- 🔐 Secure JWT Authentication  
-- ⚙️ REST API with Node.js & Express  
-- 📱 Flutter Mobile Integration  
-
----
-
-### 🔹 Student Management System
-- 🌐 Web (Next.js) + 📱 Mobile (Flutter)  
-- 👥 Role-Based Access (Admin, Teacher, Student)  
-- 🔄 Real-time Firebase Database  
-
----
-
-### 🔹 Eco Bites (Food Donation App)
-- 📱 Flutter Mobile App  
-- ⚡ Real-time Firebase Integration  
-- 🎯 User engagement & donation tracking  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -81,12 +58,12 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/farhanxdev">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<a href="mailto:farhan.xdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/farhan-tanvir-xdev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
----
-
-## ⚡ Fun Fact
-💡 I build both **Web + Mobile apps**, which makes me a **complete Full Stack Developer**
